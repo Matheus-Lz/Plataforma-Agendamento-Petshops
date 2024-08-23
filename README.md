@@ -25,7 +25,7 @@ A arquitetura do sistema é detalhada usando o Modelo C4, que proporciona uma vi
 
 ### Contexto
 O diagrama de contexto oferece uma visão geral do sistema dentro de um ambiente mais amplo, identificando os usuários principais e as interações externas com outros sistemas.
-![Contexto](https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
+(https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
 
 ### Contêineres
 Este diagrama detalha os principais ambientes de execução e serviços do sistema, mostrando como eles se comunicam entre si para fornecer a funcionalidade total.
