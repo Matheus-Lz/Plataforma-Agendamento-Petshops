@@ -19,6 +19,30 @@ O aumento no número de pets e a demanda por serviços especializados geram a ne
 - Banco de Dados: PostgreSQL
 - Ferramentas de Desenvolvimento: Jira, JUnit
 
+ ## Arquitetura do Sistema
+
+A arquitetura do sistema é detalhada usando o Modelo C4, que proporciona uma visão clara e sistemática das partes integrantes do sistema e como elas interagem. Este modelo ajuda a entender a estrutura e a funcionalidade do sistema em diferentes níveis de abstração.
+
+### Contexto
+O diagrama de contexto oferece uma visão geral do sistema dentro de um ambiente mais amplo, identificando os usuários principais e as interações externas com outros sistemas.
+![Contexto](url_da_imagem_contexto)
+
+### Contêineres
+Este diagrama detalha os principais ambientes de execução e serviços do sistema, mostrando como eles se comunicam entre si para fornecer a funcionalidade total.
+![Contêineres](url_da_imagem_contêineres)
+
+### Componentes
+Mostra a organização interna dos contêineres, detalhando os principais componentes e suas responsabilidades dentro do sistema.
+![Componentes](url_da_imagem_componentes)
+
+### Código
+Descreve a estrutura do código em nível de código-fonte, destacando os principais módulos e como eles são organizados dentro dos componentes para facilitar o desenvolvimento e a manutenção.
+![Código](url_da_imagem_código)
+
+### Diagrama de Caso de Uso
+Ilustra os principais cenários de uso do sistema pelos diferentes tipos de usuários, proporcionando uma compreensão clara de como os requisitos são atendidos através das funcionalidades disponíveis.
+![Diagrama de Caso de Uso](url_da_imagem_caso_de_uso)
+
 ## Segurança
 Implementação de medidas de segurança como autenticação via JWT, criptografia de senhas, análise de código com SonarQube, e testes unitários com JUnit.
 
