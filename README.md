@@ -25,19 +25,19 @@ A arquitetura do sistema é detalhada usando o Modelo C4, que proporciona uma vi
 
 ### Contexto
 O diagrama de contexto oferece uma visão geral do sistema dentro de um ambiente mais amplo, identificando os usuários principais e as interações externas com outros sistemas.
-(https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
+[Contexto](https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
 
 ### Contêineres
 Este diagrama detalha os principais ambientes de execução e serviços do sistema, mostrando como eles se comunicam entre si para fornecer a funcionalidade total.
-![Contêineres](https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
+[Contêineres](https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
 
 ### Componentes
 Mostra a organização interna dos contêineres, detalhando os principais componentes e suas responsabilidades dentro do sistema.
-![Componentes](https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
+[Componentes](https://drive.google.com/file/d/1DqYmyass5oRP-yr1McUFYILn9sxxHxG4/view?usp=sharing)
 
 ### Diagrama de Caso de Uso
 Ilustra os principais cenários de uso do sistema pelos diferentes tipos de usuários, proporcionando uma compreensão clara de como os requisitos são atendidos através das funcionalidades disponíveis.
-![Diagrama de Caso de Uso](https://drive.google.com/file/d/1xSMHu4mFqQBubgu83f-5n1u0Ks4m6OZF/view)
+[Diagrama de Caso de Uso](https://drive.google.com/file/d/1xSMHu4mFqQBubgu83f-5n1u0Ks4m6OZF/view)
 
 ## Segurança
 Implementação de medidas de segurança como autenticação via JWT, criptografia de senhas, análise de código com SonarQube, e testes unitários com JUnit.
