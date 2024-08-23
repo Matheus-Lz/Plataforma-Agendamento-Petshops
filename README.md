@@ -37,7 +37,7 @@ Mostra a organização interna dos contêineres, detalhando os principais compon
 
 ### Diagrama de Caso de Uso
 Ilustra os principais cenários de uso do sistema pelos diferentes tipos de usuários, proporcionando uma compreensão clara de como os requisitos são atendidos através das funcionalidades disponíveis.
-![Diagrama de Caso de Uso](https://drive.google.com/file/d/1pie2t6-bK4jmkBKdRfRvId05ZAiC9frF/view?usp=sharing)
+![Diagrama de Caso de Uso](https://drive.google.com/drive/folders/1IhqZOvUBo4kVHx1LXJASWnSqdW5mZbuN)
 
 ## Segurança
 Implementação de medidas de segurança como autenticação via JWT, criptografia de senhas, análise de código com SonarQube, e testes unitários com JUnit.
