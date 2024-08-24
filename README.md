@@ -43,10 +43,7 @@ Ilustra os principais cenários de uso do sistema pelos diferentes tipos de usu�
 Implementação de medidas de segurança como autenticação via JWT, criptografia de senhas, análise de código com SonarQube, e testes unitários com JUnit.
 
 ## Plano de Trabalho
-[Link para o documento ou descrição do plano de trabalho]
-
-## Licença
-[Informações sobre a licença, se aplicável]
+[Plano de trabalho Jira](https://matheusprivadopb.atlassian.net/jira/core/projects/PAP/board)
 
 ## Autores
 - Matheus Luiz da Silva
